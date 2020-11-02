@@ -1,0 +1,19 @@
+id :  mysql -u cse20172134 -p db_cse20172134
+passwd  :  cse20172134
+
+CREATE TABLE result_table(
+	id int not null AUTO_INCREMENT primary key,
+	url VARCHAR(200),
+	class VARCHAR(30),
+	score VARCHAR(50),
+	position VARCHAR(100)
+	
+);
+
+
+
+desc result_table; 	
+//table 구조 확인
+
+select * from result_table;
+// 각 column에 해당하는 값들 확인 
