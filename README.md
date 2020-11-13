@@ -1,7 +1,7 @@
 # tensorflow
 ## http://cspro.sogang.ac.kr/~cse20172134/request.html
 
-![request](https://user-images.githubusercontent.com/66376774/99023826-c08afe00-25a8-11eb-80e2-41271680ede3.GIF)
+<img width = "300" src = "![request](https://user-images.githubusercontent.com/66376774/99023826-c08afe00-25a8-11eb-80e2-41271680ede3.GIF)" >
 
 ## http://cspro.sogang.ac.kr/~cse20172134/search.html
   
