@@ -17,6 +17,6 @@ class 명과 일치하고 score 값이 같거나 더 큰 값을 찾아내서 뿌
 public_html 에서 request.html , search.html 파일을 만들고
 public_html/cgi-bin 에서 request.php , search.php , request.py 를 만듬
 
-public_html/cgi-bin 에서 simplehtmldom_1_9_1 파일을 넣고 이를 이용하여 php에서 
-image분석을 진행함
+public_html/cgi-bin 에서 simplehtmldom_1_9_1 파일을 넣고 이를 이용하여 img 정보만 추출 
+PYTHON에서 image분석을 진행함
 simplehtmldom_1_9_1 파일 있어야합니다 
