@@ -1,4 +1,10 @@
 # tensorflow
+
+## How To Use
+
+request 에서 url 전송하면 search에서 객체 검출 ! 
+
+
 ## request.html
 
 ![request](https://user-images.githubusercontent.com/66376774/99023826-c08afe00-25a8-11eb-80e2-41271680ede3.GIF)
